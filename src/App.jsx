@@ -4,6 +4,7 @@ function App() {
   return (
     <div>
       <h1>AppJs</h1>
+      <p>Bu asosiy sahifa</p>
     </div>
   );
 }
